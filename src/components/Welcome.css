@@ -1,0 +1,192 @@
+
+.signup {
+    border: 2px solid #0844B9;
+    border-radius: 20px;
+    border-width: 10px;
+    color: white;
+    position: absolute; 
+    top: -88px;
+    left:1380px;
+    background-color: #0844B9;
+    width: 100px;
+    text-align: center;
+    font-weight: bolder;
+  }
+  
+  .rect {
+    width:99% ;
+    height: 80%;
+    position: absolute; 
+    top: 130px;
+    left:0.5%;
+    background-color: #0A042E; 
+    border-radius: 40px;
+  }
+  
+  .head {
+    color: white;
+    font-size:30px ;
+    position: fixed; 
+    top: 180px;
+    left:25%;
+    font-family: "Fredoka", sans-serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+  }
+  
+  .login {
+    border: 2px solid #0844B9;
+    border-radius: 20px;
+    border-width: 10px;
+    color: white;
+    position: absolute; 
+    top: 150px;
+    left:40%;
+    background-color: #0844B9;
+    width: 250px;
+    height:30px;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+  }
+  
+  .body {
+    color: white;
+    position: fixed; 
+    top: 350px;
+    left:7%;
+    width: 330px;
+    height:30px;
+    font-size: 30px;
+    text-align: left;
+  }
+  
+  
+  .google {
+    color: hsl(220, 58%, 28%);
+    font-size:20px ;
+    position: fixed; 
+    top: 550px;
+    left:100px;
+    font-family: "Fredoka", sans-serif;
+    letter-spacing: 1px;
+  }
+  
+  .rect-social-google {
+    border: 2px solid #f7f7f7;
+    border-radius: 20px;
+    border-width: 10px;
+    color: #19455E;
+    position: absolute; 
+    top: 380px;
+    left:7%;
+    background-color: white;
+    width: 280px;
+    height:30px;
+    font-size: 20px;
+    text-align: right;
+    font-weight: bold;
+  
+  }
+  
+  .rect-social-facebook{
+    border: 2px solid #f7f7f7;
+    border-radius: 20px;
+    border-width: 10px;
+    color: #19455E;
+    position: absolute; 
+    top: 450px;
+    left:6.9%;
+    background-color: white;
+    width: 280px;
+    height:30px;
+    font-size: 20px;
+    text-align: right;
+    font-weight: bold;
+  }
+  
+  .google{
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    top:-5px;
+    margin-left:-100px;
+    position: absolute;
+  }
+  
+  .facebook{
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    margin-top:-5px;
+    margin-right:245px;
+  }
+  
+  .facebook_text {
+    margin-top: -40px;
+    margin-right: 20px;
+  }
+  
+  .google_text {
+    margin-right: 40px;
+  }
+    .images {
+    position: absolute;
+    top: -100px;
+    left: 65%;
+    z-index: 1; 
+    
+  }
+  
+  .images1 {
+    height:180px;
+    width: 250px;
+    border: 22px solid #0A042E;
+    border-radius: 50px;
+    position: absolute;
+    top: 180px;
+    left: 190px;
+  }
+  .images2 {
+    height:180px;
+    width: 250px;
+    top:260px;
+    height:180px;
+    width: 250px;
+    margin-top:220px;
+    left:190px;
+    position: absolute;
+    border: 22px solid #0A042E;
+    border-radius: 50px;
+    z-index: 1;
+  }
+  .images3 {
+    height:180px;
+    width: 250px;
+    top:200px;
+    height:180px;
+    width: 250px;
+    margin-top:150px;
+    position: absolute;
+    left:50px;
+    border: 22px solid #0A042E;
+    border-radius: 50px;
+  }
+  
+  .thirdhands {
+    border: 15px solid #ffffff;
+    position: fixed;
+    top: 720px;
+    left: 50%; 
+    transform: translate(-50%, -50%); 
+    z-index: 1;
+    height: 80px;
+    width: 250px;
+    background-color: #0A042E;
+    border-radius: 50px;
+    text-align: center; 
+    line-height: 80px; 
+    font-size: 30px;
+    font-family: Poppins;
+    color: white;
+  }

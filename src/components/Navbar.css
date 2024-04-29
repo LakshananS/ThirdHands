@@ -1,0 +1,49 @@
+.a {
+    margin-right: 8%;
+    color:#19455E;
+}
+
+.down {
+    color: #19455E;
+}
+
+.logo {
+    margin-right: 550px;
+    position: fixed; 
+    top: 45px;
+    left: 180px;
+    color: #19455E;
+    font-weight: 20px;
+    font-family: Aclonica;
+  }
+  
+  .logo-name1 {
+    font-size: 40px;
+  }
+  
+  .logo-name2 {
+    letter-spacing: 0.15cm;
+    margin-left:10px
+  }
+  
+  .logo-image {
+    width: 100px;
+    height: 100px;
+    position: fixed; 
+    top: 25px;
+    left: 60px; 
+    border-radius: 50px ;
+  }
+
+  .nav {
+    background-color: '';
+    margin: '40%';
+    position: absolute; 
+    top: 30px;
+    left: 350px; 
+    font-size: 20px;
+    display: inline;
+    color:#19455E;
+    width: 1000px;
+  }
+
