@@ -9,7 +9,7 @@
 
 .logo {
     margin-right: 550px;
-    position: fixed; 
+    position: absolute; 
     top: 45px;
     left: 180px;
     color: #19455E;
@@ -29,9 +29,9 @@
   .logo-image {
     width: 100px;
     height: 100px;
-    position: fixed; 
-    top: 25px;
-    left: 60px; 
+    position: absolute; 
+    top: -25px;
+    left: -120px; 
     border-radius: 50px ;
   }
 

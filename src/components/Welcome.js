@@ -10,7 +10,7 @@ export default function Welcome() {
       </div>
       </Link>
       <div className='head'>
-          THIRD HANDS SERVES AS A ONE-STEL SOLUTION
+          THIRD HANDS SERVES AS A ONE-STEP SOLUTION
       </div>
 
       <div className='login'>
